@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/mini-project/static/css/main.9eea5425.chunk.css",
+    "main.js": "/mini-project/static/js/main.fa8e5917.chunk.js",
+    "main.js.map": "/mini-project/static/js/main.fa8e5917.chunk.js.map",
+    "runtime-main.js": "/mini-project/static/js/runtime-main.f22123cd.js",
+    "runtime-main.js.map": "/mini-project/static/js/runtime-main.f22123cd.js.map",
+    "static/js/2.10fe4053.chunk.js": "/mini-project/static/js/2.10fe4053.chunk.js",
+    "static/js/2.10fe4053.chunk.js.map": "/mini-project/static/js/2.10fe4053.chunk.js.map",
+    "index.html": "/mini-project/index.html",
+    "static/css/main.9eea5425.chunk.css.map": "/mini-project/static/css/main.9eea5425.chunk.css.map",
+    "static/js/2.10fe4053.chunk.js.LICENSE.txt": "/mini-project/static/js/2.10fe4053.chunk.js.LICENSE.txt",
+    "static/media/John Denver - Country Roads.01643f65.mp3": "/mini-project/static/media/John Denver - Country Roads.01643f65.mp3",
+    "static/media/John Denver - Country Roads.fbd20a41.jpg": "/mini-project/static/media/John Denver - Country Roads.fbd20a41.jpg",
+    "static/media/Khalid - Young Dumb Broke.38894801.jpg": "/mini-project/static/media/Khalid - Young Dumb Broke.38894801.jpg",
+    "static/media/Khalid - Young Dumb Broke.a7f6f690.mp3": "/mini-project/static/media/Khalid - Young Dumb Broke.a7f6f690.mp3",
+    "static/media/Never Gonna Give You Up.aeb1f994.png": "/mini-project/static/media/Never Gonna Give You Up.aeb1f994.png",
+    "static/media/Post Malone - White Iverson.0c63ed23.mp3": "/mini-project/static/media/Post Malone - White Iverson.0c63ed23.mp3",
+    "static/media/Post Malone - White Iverson.8a8b4a96.png": "/mini-project/static/media/Post Malone - White Iverson.8a8b4a96.png",
+    "static/media/Rick Astley - Never Gonna Give You Up.4e16c696.mp3": "/mini-project/static/media/Rick Astley - Never Gonna Give You Up.4e16c696.mp3",
+    "static/media/Sigrid - High Five.0e42a243.mp3": "/mini-project/static/media/Sigrid - High Five.0e42a243.mp3",
+    "static/media/Sigrid - High Five.19fd2e5c.png": "/mini-project/static/media/Sigrid - High Five.19fd2e5c.png",
+    "static/media/game.32ff27ff.jpg": "/mini-project/static/media/game.32ff27ff.jpg",
+    "static/media/music.c385231b.jpg": "/mini-project/static/media/music.c385231b.jpg",
+    "static/media/settings.9bc43f25.png": "/mini-project/static/media/settings.9bc43f25.png",
+    "static/media/wallpaper1.f7623c91.jpg": "/mini-project/static/media/wallpaper1.f7623c91.jpg",
+    "static/media/wallpaper2.0d02cba1.jpg": "/mini-project/static/media/wallpaper2.0d02cba1.jpg",
+    "static/media/wallpaper3.73839d47.jpg": "/mini-project/static/media/wallpaper3.73839d47.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f22123cd.js",
+    "static/js/2.10fe4053.chunk.js",
+    "static/css/main.9eea5425.chunk.css",
+    "static/js/main.fa8e5917.chunk.js"
+  ]
+}
